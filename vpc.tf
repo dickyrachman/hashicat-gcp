@@ -1,6 +1,6 @@
 module "network" {
   source  = "app.terraform.io/DTO-Dicky/network/google"
-  version = "5.2.0"
+  version = "3.4.0"
   # insert required variables here
 }
 network_name    = "gaurav-network"
